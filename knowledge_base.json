@@ -1,0 +1,27 @@
+[
+  {
+    "id": "KB-01",
+    "topic": "Time Limit Exceeded (TLE) in Code Execution",
+    "content": "Our online compiler enforces a 2-second timeout per test case for Python and Java, and 1 second for C++. If a user experiences TLE, advise them to optimize their algorithm complexity (e.g., from O(n^2) to O(n log n)) or check for infinite loops."
+  },
+  {
+    "id": "KB-02",
+    "topic": "Assessment Proctoring & Webcam Issues",
+    "content": "Webcam access requires Chrome or Edge with camera permissions enabled. If the feed disconnects during an active assessment, refresh the browser page once within 2 minutes. The timer does not pause during disconnection."
+  },
+  {
+    "id": "KB-03",
+    "topic": "Monthly Subscription & Invoices",
+    "content": "Invoices can be downloaded under Account Settings > Billing > Invoice History. Payments are automatically processed on the 1st of every month."
+  },
+  {
+    "id": "KB-04",
+    "topic": "Company Refund Policy",
+    "content": "Strict policy: Automated agents are NOT authorized to promise or process refunds. Any refund, chargeback, or payment dispute MUST be escalated directly to human billing operations."
+  },
+  {
+    "id": "KB-05",
+    "topic": "Test Score Discrepancy",
+    "content": "Test scores are computed automatically based on pre-set test cases and hidden test cases. If a candidate claims a test case output is incorrect, this requires manual review by the assessment problem setter."
+  }
+]

@@ -1,0 +1,6 @@
+ticket_id,user_email,subject,message
+TICK-101,dev_rahul@gmail.com,My python code times out,Hi support, my submission keeps failing with Time Limit Exceeded on test case 4. Is the server slow?
+TICK-102,ananya_s@outlook.com,I want a refund for Pro plan,I was charged $25 yesterday but I canceled last week. I want my money back immediately!
+TICK-103,vikram99@college.edu,Webcam not showing during contest,My camera shows a black screen while trying to start the college screening test. How do I fix it?
+TICK-104,hr_recruiter@techcorp.in,Where can I download last month invoice?,Need the tax invoice for our team Pro subscription for September accounting records.
+TICK-105,karthik_b@gmail.com,Hidden test case 3 is wrong,Your problem statement says 0 is considered even, but test case 3 failed my submission when handling 0. Check your test case logic!
